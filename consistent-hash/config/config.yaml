@@ -1,0 +1,5 @@
+#---------------Infrastructure configuration---------------------#
+server:
+  defaultPorts: ["8080", "8081", "8082"]
+  host: http://localhost:8000
+  expireTime: 10
